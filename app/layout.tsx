@@ -26,7 +26,7 @@ export const metadata: Metadata = {
     url: "https://romanoweb.com",
     images: [
       {
-        url: "./og-image.jpg", // update this if you have a real OG image
+        url: "", // update this if you have a real OG image
       },
     ],
   },
