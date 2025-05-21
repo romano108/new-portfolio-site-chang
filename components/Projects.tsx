@@ -20,6 +20,26 @@ const jobProjects = [
     link: "https://www.mawi-studiogallery.com",
   },
   {
+    imagePath: "/aspentech.png",
+    title: "AspenTech",
+    description:
+      "Built and maintained a scalable, accessible component library for AspenTech’s internal design system. I personally developed 80%+ of the components, customizing and extending Shoelace using Stencil and React, and documented them thoroughly in Storybook for cross-team adoption. Collaborated closely with UX to ensure accessibility and usability, enforced quality with JEST testing and code reviews, and supported development workflows using CI/CD tools like GitHub Actions, GitLab CI, and Jenkins. Also contributed to backend functionality by building Node.js CRUD APIs in an Agile environment. 🎥 This Loom video highlights a small sample of the components I built — most of my work wasn’t recorded, but it gives a glimpse into the system’s quality and consistency.",
+    skills: [
+      "React",
+      "Stencil",
+      "Storybook",
+      "Shoelace",
+      "JavaScript",
+      "JEST",
+      "Node.js",
+      "GitHub Actions",
+      "GitLab CI",
+      "Accessibility",
+      "Agile",
+    ],
+    link: "https://www.loom.com/share/0c8e37fa0b934d96856a446417134701",
+  },
+  {
     imagePath: "/rigel-barros.png",
     title: "Rigel Barros",
     description:
