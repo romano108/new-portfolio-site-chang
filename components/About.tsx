@@ -11,45 +11,21 @@ export default function About() {
       </div>
       <div className="flex flex-col gap-4">
         <p className="text-start text-muted-foreground lg:px-6">
-          Throughout my journey from coding to design, I've been guided by a
-          simple belief:{" "}
-          <span className="text-white">
-            technology should feel natural and intuitive.
-          </span>{" "}
-          At the crossroads of AI, Web3, and Finance, I focus on creating user
-          experiences that make complex ideas accessible.
-        </p>
-        <p className="text-start  text-muted-foreground lg:px-6">
-          Currently, I'm leading product design at a stealth AI startup that's
-          rethinking how we interact with money. I'm also steering the design
-          team at{" "}
-          <a
-            className="no-wrap text-primary dark:text-white"
-            href="https://vela.exchange"
-            target="blank"
-            rel="noopener noreferrer"
-          >
-            Vela Exchange
-          </a>
-          , a decentralized platform for perpetual trading. As a co-founder,
-          designer, and developer at{" "}
-          <a
-            className="no-wrap text-primary dark:text-white"
-            href="https://swoop.exchange"
-            target="blank"
-            rel="noopener noreferrer"
-          >
-            Swoop Exchange
-          </a>
-          , I've helped build a meta-aggregation engine used daily by thousands
-          of users.
+          Hey guys, my name is Andoni Romano, and I'm a front-end developer with
+          three years of professional experience. I love building components,
+          applications—you name it. I enjoy every step of the process.
         </p>
         <p className="text-start text-muted-foreground lg:px-6">
-          Across all the applications I've been involved with, I've had the
-          privilege to contribute in facilitating billions in transaction
-          volume. I believe in making technology feel human—designing
-          applications and experiences that are seamless extensions of
-          ourselves, serving real needs with simplicity and clarity.
+          I'm also passionate about music, chess, books, and traveling. I
+          specialize in building high-performance, accessible, and user-friendly
+          interfaces using JavaScript, TypeScript, React, Vue, Next.js, Web
+          Components, Stencil, amongst others. Currently, I'm learning more
+          backend development, libraries like GSAP, and AI agents.
+        </p>
+        <p className="text-start text-muted-foreground lg:px-6">
+          I thrive in collaborative environments, working closely with UI/UX
+          designers and cross-functional teams in Agile settings to deliver
+          seamless user experiences through clean, efficient code.
         </p>
       </div>
     </section>

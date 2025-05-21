@@ -7,27 +7,11 @@ export default function Footer() {
         <p className="text-sm text-start text-muted-foreground">
           Based on{" "}
           <a className="text-foreground" href="https://brittanychiang.com">
-            Brittany Chiang&#39;s website
-          </a>{" "}
-          (they awesome). Coded in{" "}
-          <a className="text-foreground" href="https://code.visualstudio.com/">
-            Visual Studio Code.
-          </a>{" "}
-          Built with{" "}
-          <a className="text-foreground" href="https://nextjs.org/">
-            Next.js
+            Brittany Chiang&#39;s website and
           </a>
-          ,{" "}
-          <a className="text-foreground" href="https://tailwindcss.com/">
-            Tailwind CSS
-          </a>{" "}
-          and{" "}
-          <a className="text-foreground" href="https://ui.shadcn.com/">
-            Shadcn/ui
-          </a>
-          , deployed with{" "}
-          <a className="text-foreground" href="https://vercel.com/">
-            Vercel
+          <a className="text-foreground" href="https://meikopoulos.com">
+            {" "}
+            Meikopoulos
           </a>
           .
         </p>

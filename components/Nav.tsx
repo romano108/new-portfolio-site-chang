@@ -54,15 +54,12 @@ export default function Nav() {
           </Avatar>
         </div>
         <h1 className="text-[42px] font-bold lg:text-start">
-          Hi, i&#39;m Alexander 👋
+          Hi, i&#39;m Andoni 👋
         </h1>
-        <h2 className="text-xl lg:text-start">
-          Product designer, developer, founder.
-        </h2>
+        <h2 className="text-xl lg:text-start">Builder. Coder. Creator. </h2>
         <p className="text-lg lg:text-start text-muted-foreground">
-          I help innovative startups in AI, Web3, and Finance craft exceptional
-          user experiences, translating complex technologies into intuitive
-          interfaces that resonate with humans.
+          I help ambitious teams turn bold ideas into sleek, high-converting web
+          experiences—combining clean code with sharp design to drive results.
         </p>
       </div>
       <nav className="lg:flex hidden">
@@ -85,7 +82,7 @@ export default function Nav() {
       <ul className="flex flex-row gap-6 mt-6 lg:mt-0">
         <Button variant="outline" size="icon">
           <a
-            href="https://github.com/0xAlexander"
+            href="https://github.com/romano108"
             target="_blank"
             rel="noopener noreferrer"
           >
@@ -94,7 +91,7 @@ export default function Nav() {
         </Button>
         <Button variant="outline" size="icon">
           <a
-            href="https://linkedin.com/in/0xAlexander"
+            href="https://www.linkedin.com/in/andoni-romano"
             target="_blank"
             rel="noopener noreferrer"
           >
