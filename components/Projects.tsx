@@ -15,7 +15,7 @@ const jobProjects = [
     imagePath: "/mawiweb-site.png",
     title: "Mawi",
     description:
-      "Developed the front-end mainly using Webflow, while actively coding custom features with GSAP, CSS, and JavaScript to create polished, interactive user experiences.",
+      "Mawi is an international interior designer. Developed the front-end mainly using Webflow, while actively coding custom features with GSAP, CSS, and JavaScript to create polished, interactive user experiences.",
     skills: ["UI/UX Design", "Javascript", "CSS", "GSAP", "Webflow", "Figma"],
     link: "https://www.mawi-studiogallery.com",
   },
