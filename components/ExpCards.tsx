@@ -31,7 +31,7 @@ const jobPositions = [
     ],
   },
   {
-    timeline: "Aug 2022 — Present",
+    timeline: "Aug 2022 — Mar 2023",
     currentPosition: "Front End Developer",
     place: "3PLFreightSoftware",
     previousPositions: [""],
