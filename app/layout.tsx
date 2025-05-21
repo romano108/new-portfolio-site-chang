@@ -7,32 +7,32 @@ import { Analytics } from "@vercel/analytics/react";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  metadataBase: new URL("https://meikopoulos.com"),
+  metadataBase: new URL("https://romanoweb.com"),
   alternates: {
-    canonical: "https://meikopoulos.com",
+    canonical: "https://romanoweb.com",
   },
-  title: "Alexander Meikopoulos - Product Designer in AI, Web3, and Finance",
+  title: "Andoni Romano",
   description:
-    "Alexander Meikopoulos is a Product designer, developer & founder.",
+    "Andoni Romano is a Front-End Developer passionate about UI/UX, motion, and creative development.",
   keywords:
-    "Alexander Meikopoulos, Product Designer, AI, Web3, Finance, User Experience, UI/UX Design, Design Systems, Front-end Development, Decentralized Finance, DeFi, Swoop Exchange, Vela Exchange, Stealth AI Startup, Technology, Innovation, Human-Centered Design",
+    "Andoni Romano, Front-End Developer, UI/UX, Web Development, JavaScript, TypeScript, React, Vue, Stencil, GSAP, Webflow, Creative Coding, Motion Design, Web Components",
   openGraph: {
     locale: "en_US",
-    siteName: "Alexander Meikopoulos",
+    siteName: "Andoni Romano",
     type: "website",
-    title: "Alexander Meikopoulos",
+    title: "Andoni Romano",
     description:
-      "Alexander Meikopoulos is a Product designer, developer & founder.",
-    url: "https://meikopoulos.com",
+      "Andoni Romano is a Front-End Developer passionate about UI/UX, motion, and creative development.",
+    url: "https://romanoweb.com",
     images: [
       {
-        url: "./og-large-meik-2.jpg",
+        url: "./og-image.jpg", // update this if you have a real OG image
       },
     ],
   },
   twitter: {
     card: "summary_large_image",
-    title: "Alexander Meikopoulos",
+    title: "Andoni Romano",
   },
 };
 
