@@ -1,7 +1,7 @@
 "use client";
 import { Button } from "@/components/ui/button";
 import Image from "next/image";
-import pineapple from "@/public/pineapple.png";
+import dolphin from "@/public/dolphin.png";
 import { Avatar, AvatarFallback, AvatarImage } from "@/components/ui/avatar";
 import { Github, Linkedin } from "lucide-react";
 import { ModeToggle } from "./ui/toggle-mode";
@@ -58,12 +58,7 @@ export default function Nav() {
         <h1 className="text-[42px] font-bold lg:text-start flex items-center gap-2">
           Hi, I&apos;m Andoni
           <span className="inline-block">
-            <Image
-              src={pineapple}
-              alt="Pineapple icon"
-              width={50}
-              height={50}
-            />
+            <Image src={dolphin} alt="Dolphin icon" width={100} height={100} />
           </span>
         </h1>
         <h2 className="text-xl lg:text-start">Builder. Coder. Creator. </h2>
